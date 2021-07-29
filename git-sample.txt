@@ -1,4 +1,8 @@
-sample1
+<<<<<<< HEAD
+Kashima
+=======
+qq
+>>>>>>> develop
 sample2
 sample3
 sample4
